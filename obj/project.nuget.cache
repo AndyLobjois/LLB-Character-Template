@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vtcy2SxKZ4mtG9w5lzhi5FHTPAw0+pC0P8xg4dWFeV4TT0/M9aXx9CCIEKZCTtt/MCFsymFYTZlFjwazRHyh+w==",
+  "success": true,
+  "projectFilePath": "D:\\Andy\\Projets\\LLB MOD\\CharacterTemplate\\CharacterTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.2\\microsoft.netframework.referenceassemblies.net46.1.0.2.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Andy Lobjois\\.nuget\\packages\\unityengine.modules\\2018.4.31\\unityengine.modules.2018.4.31.nupkg.sha512"
+  ],
+  "logs": []
+}

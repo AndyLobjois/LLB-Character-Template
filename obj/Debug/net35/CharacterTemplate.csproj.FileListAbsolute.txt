@@ -1,0 +1,6 @@
+D:\Andy\Projets\LLB MOD\CharacterTemplate\obj\Debug\net35\CharacterTemplate.csproj.AssemblyReference.cache
+D:\Andy\Projets\LLB MOD\CharacterTemplate\obj\Debug\net35\PluginInfo.cs
+D:\Andy\Projets\LLB MOD\CharacterTemplate\obj\Debug\net35\CharacterTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andy\Projets\LLB MOD\CharacterTemplate\obj\Debug\net35\CharacterTemplate.AssemblyInfoInputs.cache
+D:\Andy\Projets\LLB MOD\CharacterTemplate\obj\Debug\net35\CharacterTemplate.AssemblyInfo.cs
+D:\Andy\Projets\LLB MOD\CharacterTemplate\obj\Debug\net35\CharacterTemplate.csproj.CoreCompileInputs.cache

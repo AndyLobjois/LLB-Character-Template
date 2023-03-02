@@ -1,0 +1,5 @@
+Open a terminal and go to the parent folder of your project:
+	cd /d D:\Andy\Projets\LLB MOD
+	
+Put this command: 
+	dotnet new bepinex5plugin -n CharacterTemplate -T net46 -U 2018.4.31
